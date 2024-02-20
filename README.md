@@ -32,6 +32,8 @@ Once the webpage is open in your web browser, you can navigate through the diffe
 
 The links to this webpage and repository can be found below:
 
+Deployed site: https://brianhcordova.github.io/css-portfolio/
+Github repo: https://github.com/BrianHCordova/css-portfolio
 
 ## Credits
 
