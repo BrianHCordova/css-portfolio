@@ -55,6 +55,7 @@ a:hover {
     text-decoration: underline;
     text-underline-offset: .7rem;
     text-decoration-color: rgb(20, 77, 32);
+    transition: 0.4s ease-in-out;
 }
 
 .logo {
@@ -114,6 +115,11 @@ section {
     padding: 10px;
     /* background-color: aliceblue; */
     text-align: center;
+    transition: box-shadow 0.3s ease-in-out;
+  }
+
+  .card:hover {
+    box-shadow: 0 0 10px 5px rgb(20, 77, 32);
   }
  
   .card-image-container {
