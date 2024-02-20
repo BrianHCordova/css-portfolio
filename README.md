@@ -35,8 +35,8 @@ The links to this webpage and repository can be found below:
 
 ## Credits
 
-- The background image used in the header section is from Unsplash (https://unsplash.com)
-- Icons used for social media links are from Font Awesome (https://fontawesome.com)
+Stock image for card place holder can be found here:
+https://stock.adobe.com/images/ace-of-spades-playing-card-vintage-style-casino-and-poker-modern-art-on-an-antique-background-black-and-gold-design-with-a-pattern/130280196
 
 
 ## Contact Information
