@@ -7,6 +7,8 @@
 
 html {
     scroll-behavior: smooth;
+    background: rgb(196,196,196);
+    background: linear-gradient(0deg, rgba(196,196,196,1) 0%, rgba(255,255,255,1) 100%);
 }
 
 body {
@@ -49,10 +51,10 @@ h3 {
 }
 
 a:hover {
-    color: grey;
+    color: rgb(100, 100, 100);
     text-decoration: underline;
     text-underline-offset: .7rem;
-    text-decoration-color: rgb(181, 181, 181);
+    text-decoration-color: rgb(20, 77, 32);
 }
 
 .logo {
@@ -89,7 +91,6 @@ section {
     height: 400px;
     width: 400px;
     justify-content: end;
-    border-radius: 50%;
     
   }
 
@@ -109,8 +110,9 @@ section {
   .card {
     width: 300px;
     border: 5px solid #ccc;
+    border-radius: 10%;
     padding: 10px;
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
     text-align: center;
   }
  
